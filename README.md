@@ -3,12 +3,12 @@
 
 Collection of different algorithms to sort an array!<br>
 Diffrent algorithms are:<br>
-1.Bubble Sort<br>
-2.Selection Sort<br>
-3.Insertion Sort<br>
-4.Merge Sort<br>
-5.Quick Sort<br>
-6.Heap Sort<br>
+1.#Bubble Sort:(https://github.com/Kartikay-Mehrotra/DATA_STRUCTURES/blob/main/bubbleSort.cpp)<br>
+2.Selection Sort(https://github.com/Kartikay-Mehrotra/DATA_STRUCTURES/blob/main/selectionSort.cpp)<br>
+3.Insertion Sort(https://github.com/Kartikay-Mehrotra/DATA_STRUCTURES/blob/main/insertionSort.cpp)<br>
+4.Merge Sort(https://github.com/Kartikay-Mehrotra/DATA_STRUCTURES/blob/main/mergeSort.cpp)<br>
+5.Quick Sort(https://github.com/Kartikay-Mehrotra/DATA_STRUCTURES/blob/main/quickSort.cpp)<br>
+6.Heap Sort(https://github.com/Kartikay-Mehrotra/DATA_STRUCTURES/blob/main/heapSort.cpp)<br>
 
 # 1. Time Complexity and Space Complexity:
 
