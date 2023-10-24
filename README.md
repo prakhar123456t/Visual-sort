@@ -3,7 +3,7 @@
 
 Collection of different algorithms to sort an array!<br>
 Diffrent algorithms are:<br>
-1.#Bubble Sort:(https://github.com/Kartikay-Mehrotra/DATA_STRUCTURES/blob/main/bubbleSort.cpp)<br>
+1.Bubble Sort:(https://github.com/Kartikay-Mehrotra/DATA_STRUCTURES/blob/main/bubbleSort.cpp)<br>
 2.Selection Sort(https://github.com/Kartikay-Mehrotra/DATA_STRUCTURES/blob/main/selectionSort.cpp)<br>
 3.Insertion Sort(https://github.com/Kartikay-Mehrotra/DATA_STRUCTURES/blob/main/insertionSort.cpp)<br>
 4.Merge Sort(https://github.com/Kartikay-Mehrotra/DATA_STRUCTURES/blob/main/mergeSort.cpp)<br>
