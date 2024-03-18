@@ -21,6 +21,6 @@ Collection of different algorithms to sort an array!<br>
 
 - Project: VisualSort
 - Author:  Kartikay Mehrotra
-- GitHub repo:[ https://github.com/Kartikay-Mehrotra/VisualSort](https://github.com/prakhar123456t/Visual-sort/)
+- GitHub repo:(https://github.com/prakhar123456t/Visual-sort/)
 
  
