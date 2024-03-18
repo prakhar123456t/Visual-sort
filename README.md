@@ -20,7 +20,7 @@ Collection of different algorithms to sort an array!<br>
 # Project Info
 
 - Project: VisualSort
-- Author:  Kartikay Mehrotra
+- Author: Prakhar Gupta
 - GitHub repo:(https://github.com/prakhar123456t/Visual-sort/)
 
  
